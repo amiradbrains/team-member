@@ -6,7 +6,7 @@
  * Version:     1.0.0
  * Author:      Amir Khan
  * Author URI:  https://adbrains.in/
- * Text Domain: elementor-oembed-widget
+ * Text Domain: elementor-team-widget
  *
  * Elementor tested up to: 3.7.0
  * Elementor Pro tested up to: 3.7.0
