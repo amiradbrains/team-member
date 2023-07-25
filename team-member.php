@@ -4,7 +4,7 @@
  * Description: Create Team member Owl Carousel
  * Plugin URI:  https://adbrains.in/
  * Version:     1.0.0
- * Author:      Adbrains Technologies
+ * Author:      Amir Khan
  * Author URI:  https://adbrains.in/
  * Text Domain: elementor-oembed-widget
  *
